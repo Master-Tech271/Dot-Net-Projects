@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exgKWLKNf1VGeo63npuP0tW/q8zpv0+wVFg8DxbaT/vjJitgOEcVvggvhig2tLoASRlprIK7BUEvQjqOHTM8bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Unthinkable\\source\\repos\\SampleProject\\DataModels\\DataModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unthinkable\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\bin\Debug\net6.0\SQLORM.deps.json
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\bin\Debug\net6.0\SQLORM.dll
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\bin\Debug\net6.0\SQLORM.pdb
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.csproj.AssemblyReference.cache
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.AssemblyInfoInputs.cache
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.AssemblyInfo.cs
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.dll
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\refint\SQLORM.dll
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\SQLORM.pdb
+C:\Users\Unthinkable\source\repos\SampleProject\SQLORM\obj\Debug\net6.0\ref\SQLORM.dll

@@ -1,0 +1,39 @@
+﻿@page "/employees"
+@using DataModels.Models;
+<h3>Employee</h3>
+
+
+<RadzenDataGrid Data="@Employees" TItem="EmployeeModel">
+    <Columns>
+        <RadzenDataGridColumn TItem="EmployeeModel" Property="EmployeeCode" Title="Employee Code" />
+        <RadzenDataGridColumn TItem="EmployeeModel" Property="Name" Title="Name" />
+        <RadzenDataGridColumn TItem="EmployeeModel" Property="Salary" Title="Salary" />
+        <RadzenDataGridColumn TItem="EmployeeModel" Property="Experience" Title="Experience">
+            <Template Context="Data">
+                @string.Format("{0}.{1}", Data.ExperienceInYears, Data.ExperienceInMonths)
+            </Template>
+        </RadzenDataGridColumn>
+    </Columns>
+</RadzenDataGrid>
+@*<table class="Table">
+    <thead>
+        <tr>
+            <th>Employee Code</th>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>Experience</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (EmployeeModel Employee in Employees)
+        {
+            <tr>
+                <td>@Employee.EmployeeCode</td>
+                <td>@Employee.Name</td>
+                <td>@Employee.Salary</td>
+                <td>@string.Format("{0}.{1}", Employee.ExperienceInYears, Employee.ExperienceInMonths)</td>
+            </tr>
+        }
+    </tbody>
+</table>*@
+
